@@ -1,0 +1,1 @@
+Testing initial project directory from VS Code and Git
